@@ -1,3 +1,3 @@
 # headless
-script to use remote second monitor in your mobile device (or any device running vnc)thru your fav vnc client 
+script to use remote second monitor in your mobile device (or any device running vnc)thru your fav vnc client /n
 make sure to have wayVNC and change the NAC name to yours 
